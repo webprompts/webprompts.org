@@ -3,7 +3,7 @@
 
 ## Unleashing Creativity, One Prompt at a Time!
 
-![image](https://github.com/webprompts/webprompts.org/assets/65864/57112517-b5cf-448a-b533-07637256552c)
+![image](https://github.com/webprompts/webprompts.org/assets/65864/4f56255c-5da0-4705-87b1-e9ef09215952)
 
 ### About WebPrompts.org
 
