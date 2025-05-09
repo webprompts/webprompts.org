@@ -1,0 +1,1 @@
+Convert a portrait of a woman in the attached image into ASCII art, monochrome, pixelated, using characters like @%#*+=-:. maintain facial structure and contrast as much as possible. suitable for nostalgic CRT monitor aesthetics
